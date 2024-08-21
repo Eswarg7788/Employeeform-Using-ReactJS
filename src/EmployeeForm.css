@@ -1,0 +1,31 @@
+.employee-form {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+  }
+  
+  .employee-form h2 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    width: calc(50% - 20px);
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  button{
+     background-color: rgb(41, 140, 201);
+     color: white;
+     position: relative;
+     left: 350px;
+  }
+.error-message{
+    color: red;
+}
