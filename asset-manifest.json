@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eswarg7788/Employeeform-Using-ReactJS/static/css/main.f15ab76e.css",
+    "main.js": "/Eswarg7788/Employeeform-Using-ReactJS/static/js/main.2faa0e0d.js",
+    "index.html": "/Eswarg7788/Employeeform-Using-ReactJS/index.html",
+    "main.f15ab76e.css.map": "/Eswarg7788/Employeeform-Using-ReactJS/static/css/main.f15ab76e.css.map",
+    "main.2faa0e0d.js.map": "/Eswarg7788/Employeeform-Using-ReactJS/static/js/main.2faa0e0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15ab76e.css",
+    "static/js/main.2faa0e0d.js"
+  ]
+}
